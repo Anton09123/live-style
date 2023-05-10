@@ -1,0 +1,96 @@
+.conteiner {
+    margin: 0 auto;
+}
+* {
+    background-color:#E5E5E5;
+}
+.list a{
+text-decoration: none;
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+/* identical to box height */
+
+
+color: #7D7D7D;
+
+}
+.list{
+    list-style-type: none
+}
+.list a:hover {
+    color: #03A9F4;
+}
+.baf1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.pidbaf1 {
+    margin-bottom: 130px;
+    text-decoration: none;
+    list-style-type: none;
+    width: 420px;
+}
+.pidbaf1 h3{
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    /* identical to box height */
+    
+    
+    color: #B4AD9E;
+}
+.pidbaf1 h2{
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 40px;
+    /* identical to box height */
+    
+    
+    color: #626262;
+}
+.pidbaf1 p{
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    
+    color: #626262;
+}
+.lists {
+    
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 555px;
+    margin: 0 auto;
+}
+.pid {
+    margin: 0 auto;
+    width: 906px;
+}
+.buttton {
+    padding: 20px 48px 20px 48px;
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    /* identical to box height */
+
+    border: 1px solid #626262;
+    color: #626262;
+}
+.butonn {
+  margin: 0 auto;
+  justify-content: center;
+  display: flex;
+}
